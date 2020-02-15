@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd3155cc-9313-4398-ad8b-5dac65663902" name="Default Changelist" comment="" />
+    <list default="true" id="fd3155cc-9313-4398-ad8b-5dac65663902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XZVe4fRMdzypkVJnDcx2n2DQIa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -43,20 +49,32 @@
       <workItem from="1581682041961" duration="1697000" />
       <workItem from="1581735154433" duration="2201000" />
     </task>
+    <task id="LOCAL-00001" summary="删除无用文件">
+      <created>1581767450034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581767450034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除无用文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除无用文件" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="23" key="CommitChangelistDialog2" timestamp="1581767298410">
+    <state x="125" y="23" key="CommitChangelistDialog2" timestamp="1581767507631">
       <screen x="26" y="23" width="1254" height="777" />
     </state>
-    <state x="189" y="23" key="CommitChangelistDialog2/26.23.1254.777@26.23.1254.777" timestamp="1581767298410" />
-    <state x="253" y="147" key="Vcs.Push.Dialog.v2" timestamp="1581767394600">
+    <state x="125" y="23" key="CommitChangelistDialog2/26.23.1254.777@26.23.1254.777" timestamp="1581767507631" />
+    <state x="253" y="147" key="Vcs.Push.Dialog.v2" timestamp="1581767523879">
       <screen x="26" y="23" width="1254" height="777" />
     </state>
-    <state x="253" y="147" key="Vcs.Push.Dialog.v2/26.23.1254.777@26.23.1254.777" timestamp="1581767394600" />
+    <state x="253" y="147" key="Vcs.Push.Dialog.v2/26.23.1254.777@26.23.1254.777" timestamp="1581767523879" />
     <state x="313" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1581764542167">
       <screen x="26" y="23" width="1254" height="777" />
     </state>
